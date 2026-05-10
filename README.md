@@ -39,7 +39,7 @@ Finalize project topic.
 
 - Different project ideas related to machine learning and cyber security were discussed.
 - Problems related to weak passwords and account security were analyzed.
-- Final topic selected: **Password Strength Checker Using Machine Learning**
+- Final topic selected: **Password Strength Analyzer and Breach Detection Tool**
 
 ### Guide Interaction
 Guide approved the topic.
@@ -191,7 +191,7 @@ Final approval received.
 # Project Details
 
 ## Project Title
-**Password Strength Checker Using Machine Learning**
+**Password Strength Analyzer and Breach Detection Tool**
 
 ## Technology Used
 - Python
