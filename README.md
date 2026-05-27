@@ -1,155 +1,145 @@
 # project-logbook-group23
-# Project Logbook Index
 
-| Sr.No | Week No | Contents / Activity | Date |
-|------:|:-------:|---------------------|-------------------------|
-| 1 | Week 01 | Group Establishment | 08/01/2026 - 15/01/2026 |
-| 2 | Week 02 | Topic Selection | 19/01/2026 - 29/01/2026 |
-| 3 | Week 03 | Requirement Analysis & System Overview | 29/01/2026 - 31/01/2026 |
-| 4 | Week 04 | System Architecture Design | 07/02/2026 - 18/02/2026 |
-| 5 | Week 05 | Phase 1 of Implementation | 19/02/2026 - 28/02/2026 |
-| 6 | Week 06 | Combined Design & Implementation | 01/03/2026 - 09/03/2026 |
-| 7 | Week 07 | Phase 2 of Implementation | 10/03/2026 - 27/03/2026 |
-| 8 | Week 08 | Phase 3 of Implementation | 28/03/2026 - 01/04/2026 |
-| 9 | Week 09 | System Testing | 05/04/2026 - 27/04/2026 |
-| 10 | Week 10 | Final Results & Analysis | 28/04/2026 - 09/05/2026 |
-| 11 | Week 11 | Final Report & Conclusion | 09/05/2026 - 16/05/2026 |
+## Project Title
+**Password Strength Analyzer and Breach Detection Tool**
 
 ---
 
-# Week 01: Group Establishment
+# Week 1: Project Selection & Discussion
 
-**Date:** 28/07/2025 – 02/08/2025
+**Date:** 26/08/2025 – 30/08/2025
 
-- Project group was formed.
-- Roles and responsibilities were assigned among team members.
-- Initial discussion was done on cyber security and password protection systems.
+- Discussed different project ideas with the guide.
+- Selected the project topic “Password Strength Analyzer and Breach Detection Tool”.
+- Understood the project objectives and requirements.
 
 ### Guide Interaction
-Guide explained project expectations and documentation format.
+Project topic approved by guide.
 
 ### Next Plan
-Finalize project topic.
+Requirement gathering and technology selection.
 
 ---
 
-# Week 02: Topic Selection
+# Week 2: Requirement Analysis
 
-**Date:** 04/08/2025 – 16/08/2025
+**Date:** 02/09/2025 – 06/09/2025
 
-- Different project ideas related to machine learning and cyber security were discussed.
-- Problems related to weak passwords and account security were analyzed.
-- Final topic selected: **Password Strength Analyzer and Breach Detection Tool**
+- Collected information related to password security and breach detection.
+- Studied user requirements and system functionality.
+- Planned the modules and workflow of the project.
 
 ### Guide Interaction
-Guide approved the topic.
+Requirements reviewed and suggestions provided.
 
 ### Next Plan
-Requirement analysis.
+Technology stack finalization and system design.
 
 ---
 
-# Week 03: Requirement Analysis & System Overview
+# Week 3: Technology Selection & System Design
 
-**Date:** 18/08/2025 – 23/08/2025
+**Date:** 09/09/2025 – 13/09/2025
 
-- Functional requirements such as password checking, user login, and password analysis were identified.
-- Non-functional requirements like security, speed, and usability were listed.
-- System workflow and user interaction were studied.
+- Selected Python, Flask, HTML, CSS, JavaScript, and Machine Learning technologies.
+- Designed the system architecture and project workflow.
+- Planned frontend and backend integration.
 
 ### Guide Interaction
-Requirements were reviewed and approved.
+System design approved.
 
 ### Next Plan
-System architecture design.
+Dataset collection and preprocessing.
 
 ---
 
-# Week 04: System Architecture Design
+# Week 4: Dataset Collection & Preprocessing
 
-**Date:** 28/08/2025 – 02/09/2025
+**Date:** 16/09/2025 – 20/09/2025
 
-- System architecture for frontend, backend, and machine learning model was designed.
-- Database structure and application flow were planned.
+- Collected password-related datasets for analysis.
+- Performed data cleaning and preprocessing.
+- Prepared data for machine learning model training.
 
 ### Guide Interaction
-Architecture design approved.
+Dataset preparation reviewed.
 
 ### Next Plan
-Start Phase 1 implementation.
+Machine learning model implementation.
 
 ---
 
-# Week 05: Phase 1 of Implementation
+# Week 5: Machine Learning Model Development
 
-**Date:** 03/09/2025 – 13/09/2025
+**Date:** 23/09/2025 – 27/09/2025
 
-- Frontend pages such as home page, login page, and registration page were developed.
-- Basic password input and validation system was created.
+- Implemented machine learning algorithms for password strength prediction.
+- Trained and tested the model using prepared datasets.
+- Improved prediction accuracy through testing.
 
 ### Guide Interaction
-Suggestions for improving UI and user experience were provided.
+Model performance discussed and approved.
 
 ### Next Plan
-Backend integration.
+Frontend development.
 
 ---
 
-# Week 06: Combined Design & Implementation
+# Week 6: Frontend Development
 
-**Date:** 15/09/2025 – 20/09/2025
+**Date:** 30/09/2025 – 04/10/2025
 
-- Backend logic using Python and Flask was implemented.
-- Database connectivity and user authentication were completed.
-- Password analysis logic and validations were added.
+- Developed user interface using HTML, CSS, and JavaScript.
+- Created password input and result display pages.
+- Improved user experience and interface design.
 
 ### Guide Interaction
-Data storage and backend flow were verified.
+Frontend design reviewed.
 
 ### Next Plan
-Add machine learning features.
+Backend integration using Flask.
 
 ---
 
-# Week 07: Phase 2 of Implementation
+# Week 7: Backend Development & Integration
 
-**Date:** 22/09/2025 – 04/10/2025
+**Date:** 07/10/2025 – 11/10/2025
 
-- Machine learning model for password strength prediction was trained.
-- Dataset preprocessing and vectorization were completed.
-- Password suggestions and security tips were added.
+- Integrated frontend with backend using Flask.
+- Connected machine learning model with the web application.
+- Implemented password analysis functionality.
 
 ### Guide Interaction
-Security and prediction accuracy improvements were suggested.
+Backend integration verified.
 
 ### Next Plan
-Final implementation.
+Testing and debugging.
 
 ---
 
-# Week 08: Phase 3 of Implementation
+# Week 8: Testing & Debugging
 
-**Date:** 06/10/2025 – 18/10/2025
+**Date:** 14/10/2025 – 18/10/2025
 
-- Final modules were completed successfully.
-- Frontend and backend integration was finalized.
-- UI improvements and performance optimization were done.
+- Performed functional testing of the application.
+- Identified and fixed bugs and errors.
+- Improved system performance and stability.
 
 ### Guide Interaction
-Implementation approved.
+Testing progress reviewed.
 
 ### Next Plan
-System testing.
+Final testing and result analysis.
 
 ---
 
-# Week 09: System Testing
+# Week 9: System Validation
 
-**Date:** 29/10/2025 – 01/11/2025
+**Date:** 21/10/2025 – 25/10/2025
 
-- Unit testing and integration testing were performed.
-- Different passwords were tested to check prediction accuracy.
-- Errors and bugs were fixed.
+- Conducted final system testing with different passwords.
+- Validated password strength prediction results.
+- Checked breach detection functionality.
 
 ### Guide Interaction
 Testing results reviewed and approved.
@@ -188,12 +178,8 @@ Final approval received.
 
 ---
 
-# Project Details
+# Technology Used
 
-## Project Title
-**Password Strength Analyzer and Breach Detection Tool**
-
-## Technology Used
 - Python
 - Flask
 - HTML
@@ -201,11 +187,17 @@ Final approval received.
 - JavaScript
 - Machine Learning
 
-## Team Members
+---
+
+# Team Members
+
 1. Vishakha Kailas Chaudhari  
 2. Prem Ashok Bhoi  
 3. Chetna Sham Chaudhari  
 4. Janavi Vijay Bhonde  
 
-## Guided By
+---
+
+# Guided By
+
 **Prof. S.K. Bhandare**
